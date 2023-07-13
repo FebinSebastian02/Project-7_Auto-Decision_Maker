@@ -1,0 +1,5 @@
+v1.0.0
+
+An Automatic decision making program where the computer will randomly chose an Anime from a list for the user is created with:-
+	- a list to collect few anime names
+	- choice() of random module to select an anime from the list randomly
