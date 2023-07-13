@@ -3,3 +3,14 @@ v1.0.0
 An Automatic decision making program where the computer will randomly chose an Anime from a list for the user is created with:-
 	- a list to collect few anime names
 	- choice() of random module to select an anime from the list randomly
+
+
+v1.0.1
+
+An Automatic decision making program where the computer will chose an Anime for the user based on the mood of the user is created with:-
+	- a list to collect few anime names
+	- a class and an object
+	- functions defined and called
+	- a for loop to iterate through the items in list
+	- a while loop to run the program continously until the user needs to quit
+	- if else conditions to recommend anime suggestions based on the mood
